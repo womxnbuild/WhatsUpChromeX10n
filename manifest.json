@@ -2,6 +2,16 @@
   "manifest_version": 2,
   "name": "what's this",
   "version": "0.0.1",
-  "description": "Ask what's this"
+  "description": "Ask what's this",
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png"
+    }
+  },
+  "permissions": [
+    "tabs"
+  ]
   
 }
