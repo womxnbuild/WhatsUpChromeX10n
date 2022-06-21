@@ -1,0 +1,10 @@
+
+#dialog-box {
+    text-align: center;
+    font-size: medium;
+}
+
+#result {
+    display: block;
+    margin: auto;
+}
