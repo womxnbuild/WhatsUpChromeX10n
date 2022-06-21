@@ -7,7 +7,7 @@
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/icon16.png"
+      "16": "images/yes16.png"
     }
   },
   "permissions": [
